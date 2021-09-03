@@ -1,5 +1,5 @@
 import os
-# April's Fools Script
+# April Fools Script
 # By Jean-Jacques F. Reibel
 # I will not be held responsible for:
 # any shenanigans
