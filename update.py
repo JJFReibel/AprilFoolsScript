@@ -4,7 +4,7 @@ import os
 # I will not be held responsible for:
 # any shenanigans
 
-os.system("printf '\e[1;31;5;5m WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!\n\n'")
+os.system("printf '\n\e[1;31;5;5m WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!\n\n'")
 os.system("printf '\e[0;33;1;1m YOUR SYSTEM IS INFECTED.\n'")
 os.system("printf '\e[0;36;1;1m PYTHON WORM IS DOWNLOADING AND CORRUPTING ALL DATA \n'")
 os.system("printf '\e[0;35;1;1m FOLLOWED BY FULL SYSTEM SHUTDOWN.\n\n'")
